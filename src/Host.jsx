@@ -1,1 +1,1 @@
-export const api="https://plantapp-backend-gqrv.onrender.com";
+export const api="http://crops-connect.com:3000/";
